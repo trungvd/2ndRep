@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<StudentList>
+<Student>
+<StudentID>A001</StudentID>
+<StudentName>Demo</StudentName>
+<Mark>20</Mark>
+</Student>
+<Student>
+<StudentID>A002</StudentID>
+<StudentName>Demo2</StudentName>
+<Mark>30</Mark>
+</Student>
+<Student>
+<StudentID>A003</StudentID>
+<StudentName>Demo3</StudentName>
+<Mark>40</Mark>
+</Student>
+<Student>
+<StudentID>A003</StudentID>
+<StudentName>Demo3</StudentName>
+<Mark>40</Mark>
+</Student>
+</StudentList>

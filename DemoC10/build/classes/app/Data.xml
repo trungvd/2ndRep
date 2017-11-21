@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ProductList>
+    <Product>
+        <ProductID>P01</ProductID>
+        <ProductName>Milk</ProductName>
+        <Price>25000</Price>
+        <Quantity>100</Quantity>
+        <Image>milk.jpg</Image>
+    </Product>
+    <Product>
+        <ProductID>P02</ProductID>
+        <ProductName>Egg</ProductName>
+        <Price>2000</Price>
+        <Quantity>2000</Quantity>
+        <Image>egg.jpg</Image>
+    </Product>
+    <Product>
+        <ProductID>P03</ProductID>
+        <ProductName>Yogurt</ProductName>
+        <Price>5000</Price>
+        <Quantity>900</Quantity>
+        <Image>yogurt.jpg</Image>
+    </Product>
+    <Product>
+        <ProductID>P04</ProductID>
+        <ProductName>Butter</ProductName>
+        <Price>50000</Price>
+        <Quantity>70</Quantity>
+        <Image>butter.jpg</Image>
+    </Product>
+</ProductList>
